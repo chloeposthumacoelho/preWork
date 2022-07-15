@@ -4,9 +4,6 @@ https://user-images.githubusercontent.com/96831510/179227376-53c106c2-34af-44e9-
 
 
 
-https://user-images.githubusercontent.com/96831510/179227400-8f648895-fd5c-48bd-8548-7145a44f7262.mov
-
-
 The Tip Calculator I created took approximately 3.5 hours and is intended for ios.
 -The calculator allows user(s) to browse between different tip percentages they may choose to select, between 15, 18 and 20%.
 -These chosen values are immediately updated once user clicks on it.
