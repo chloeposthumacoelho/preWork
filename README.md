@@ -9,7 +9,8 @@ The Tip Calculator I created took approximately 3.5 hours and is intended for iO
 ✏️ These chosen values are immediately updated once user clicks on it.
 
 ✏️The app overall allows the user to see the total amount of their tip based on the value of their bill.
-For the future:
+
+future goals:
 ✏️I hope to implement a tip sharing feature, where users in groups can see how much each individual guest must pay as a tip.
 ✏️I also hope to implement a currency feature that allows user to select different currencies for their tip calculations.
 
