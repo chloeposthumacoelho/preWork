@@ -21,5 +21,6 @@ future goals:
 # preWork
 
 
-https://user-images.githubusercontent.com/96831510/179230138-4933d38a-57b4-4bd2-b96e-824ab602f21c.mov
 
+
+![preworkchloe](https://user-images.githubusercontent.com/96831510/179231134-421f7837-179c-4566-86e1-ebf2681f968d.gif)
