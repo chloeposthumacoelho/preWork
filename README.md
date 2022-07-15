@@ -2,7 +2,8 @@
 
 
 
-The Tip Calculator I created took approximately 3.5 hours and is intended for ios.
+The Tip Calculator I created took approximately 3.5 hours and is intended for iOS.
+
 ✏️ The calculator allows user(s) to browse between different tip percentages they may choose to select, between 15, 18 and 20%.
 
 ✏️ These chosen values are immediately updated once user clicks on it.
