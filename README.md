@@ -15,6 +15,6 @@ The Tip Calculator I created took approximately 3.5 hours and is intended for io
 For the future:
 -I hope to implement a tip sharing feature, where users in groups can see how much each individual guest must pay as a tip.
 
-https://user-images.githubusercontent.com/96831510/178548930-932a4688-0128-40c4-b2fe-0757c9fafefb.mp4
+
 
 # preWork
